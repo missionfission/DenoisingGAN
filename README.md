@@ -22,4 +22,5 @@ Trained the model on a compound loss function consisting of pixelwise loss, feat
 Evaluation Metric Used: Peak signal to Noise Ratio (PSNR)
 
 ### Sample
-![](output_small/out5.png)
+![](output_small/out_2.png)
+![](output_small/out_10.png)
