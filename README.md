@@ -17,7 +17,7 @@ Pixelwise MSE with respect to the ground truth
 L1 Perceptual loss on features obtained from VGG16 model
 
 ### Solution Implemented
-Trained the model on a compound loss function consisting of pixelwise loss, feature loss obtained using a pretrained VGG16 model, and finally the adversarial loss. Training enabled faster with different values of learning rates of discriminator and Generator
+Trained the model on a compound loss function consisting of pixelwise loss, and finally the adversarial loss. L1 Perceptual loss on features obtained from VGG16 model can be used for improving results. Training enabled faster with different values of learning rates of discriminator and Generator.
 
 Evaluation Metric Used: Peak signal to Noise Ratio (PSNR)
 
